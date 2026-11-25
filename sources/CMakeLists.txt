@@ -16,4 +16,4 @@ set(BACKGROUNDS
 	wallpaper-11.jpg
 )
 
-install(FILES ${BACKGROUNDS} DESTINATION /usr/share/backgrounds/cutefishos)
+install(FILES ${BACKGROUNDS} DESTINATION /usr/share/backgrounds/properdesktop)

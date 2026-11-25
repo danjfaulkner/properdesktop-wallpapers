@@ -1,6 +1,6 @@
-# CutefishOS Wallpaper
+# Proper Desktop Wallpaper
 
-CutefishOS's system wallpapers and account pictures.
+Proper Desktop's system wallpapers and account pictures.
 
 ## License
 

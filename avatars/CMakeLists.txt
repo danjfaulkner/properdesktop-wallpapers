@@ -11,4 +11,4 @@ set(AVATARS
 	white-bird.jpg
 )
 
-install(FILES ${AVATARS} DESTINATION /usr/share/cutefish/avatars)
+install(FILES ${AVATARS} DESTINATION /usr/share/properdesktop/avatars)
